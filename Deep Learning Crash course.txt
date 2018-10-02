@@ -1,0 +1,3 @@
+http://course.fast.ai/ml
+
+Deep Learning for Coders - 36 hours of lessons for free

@@ -1,0 +1,4 @@
+VIP cheatsheets for Stanford's CS 229 Machine Learning:
+
+
+https://stanford.edu/~shervine/teaching/cs-229.html
